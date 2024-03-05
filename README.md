@@ -1,4 +1,7 @@
 # Gemini LangChain Chatbot
+
+![gemini-langchain-chatbot](https://github.com/shaadclt/Gemini-LangChain-Chatbot/assets/98437584/f595ebfc-dd83-4981-8f4d-2253dd830171)
+
 Gemini LangChain Chatbot is a Streamlit web application that allows users to have conversations with a language model powered by Google's Generative Gemini AI API and LangChain. This chatbot is designed to provide engaging and creative responses to user inputs.
 
 ## Features
